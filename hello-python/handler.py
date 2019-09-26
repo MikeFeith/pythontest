@@ -1,2 +1,3 @@
 def handle(req):
-    print("Hello! You said: " + req)
+    print("GREETINGS" + req)
+    return req
